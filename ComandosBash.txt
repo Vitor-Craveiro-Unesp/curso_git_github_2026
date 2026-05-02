@@ -15,3 +15,4 @@ nano -> chamar editor
 git log -> historico dos saves 
 rm -> remove diretorio 
 git diff -> ver o que esta diferente 
+git reset -> alterar se esta em fase de stage para unstage
