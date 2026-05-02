@@ -14,3 +14,4 @@ git commit -m"msg" -> fazer o checkpoint
 nano -> chamar editor
 git log -> historico dos saves 
 rm -> remove diretorio 
+git diff -> ver o que esta diferente 
