@@ -16,3 +16,7 @@ git log -> historico dos saves
 rm -> remove diretorio 
 git diff -> ver o que esta diferente 
 git reset -> alterar se esta em fase de stage para unstage
+git checkout -b -> cria uma branch secundária
+git branch -> mostra a branch que estou no momento 
+
+
