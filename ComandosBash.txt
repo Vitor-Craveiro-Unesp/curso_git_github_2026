@@ -1,0 +1,8 @@
+COMMIT -> SAVE 
+ls-> listar arquivo e pastas onde estou.
+cd -> mudar de diretorio 
+pwd-> caminho absoluto onde estou
+ls - a -> acessar arquivos ocultos
+clear -> limpar a tela 
+mkdir -> criar um diretório
+cat-> ver o que ta dentro do arquivo
