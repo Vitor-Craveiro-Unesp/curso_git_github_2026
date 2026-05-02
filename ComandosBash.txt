@@ -6,3 +6,9 @@ ls - a -> acessar arquivos ocultos
 clear -> limpar a tela 
 mkdir -> criar um diretório
 cat-> ver o que ta dentro do arquivo
+git init . -> pasta especial permitindo versonamento
+rm - rf -> excluir algo 
+git status -> verificar 
+git add nome_arquivo -> sinalizar o que vai entrar no check point 
+git commit -m"msg" -> fazer o checkpoint
+nano -> chamar editor
