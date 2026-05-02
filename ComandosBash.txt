@@ -7,8 +7,10 @@ clear -> limpar a tela
 mkdir -> criar um diretório
 cat-> ver o que ta dentro do arquivo
 git init . -> pasta especial permitindo versonamento
-rm - rf -> excluir algo 
+rm - rf -> excluir algo forçadamente  
 git status -> verificar 
 git add nome_arquivo -> sinalizar o que vai entrar no check point 
 git commit -m"msg" -> fazer o checkpoint
 nano -> chamar editor
+git log -> historico dos saves 
+rm -> remove diretorio 
